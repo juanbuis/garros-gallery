@@ -51,10 +51,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  verification: {
-    google: "your-actual-google-verification-code-here",
-  },
-    generator: 'v0.app'
+  generator: 'v0.app'
 }
 
 export default function RootLayout({
